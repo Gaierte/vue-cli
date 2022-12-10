@@ -1,2 +1,2 @@
 # vue-cli
-vue-cli 5
+vue-cli 6
